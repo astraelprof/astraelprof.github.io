@@ -1,0 +1,288 @@
+.creative_form_1.creativecontactform_wrapper {
+	border: 1px solid #ffffff;
+	background-color: #ffffff;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff'); /* for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#ffffff));/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-linear-gradient(top, #ffffff, #ffffff); /* Safari 5.1, Chrome 10+ */
+	background: -moz-linear-gradient(top, #ffffff, #ffffff);/* Firefox 3.6+ */
+	background: -ms-linear-gradient(top, #ffffff, #ffffff);/* IE 10 */
+	background: -o-linear-gradient(top, #ffffff, #ffffff);/* Opera 11.10+ */
+	
+	-moz-box-shadow: inset 0px 0px 49px 10px  #ffffff;
+	-webkit-box-shadow: inset 0px 0px 49px 10px  #ffffff;
+	box-shadow: inset 0px 0px 49px 10px  #ffffff;
+	
+	-webkit-border-top-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	font-family: inherit;
+}
+.creative_form_1 .creativecontactform_loading_wrapper {
+	-webkit-border-top-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+}
+.creative_form_1.creativecontactform_wrapper:hover {
+	-moz-box-shadow: inset 0px 0px 50px 15px  #ffffff;
+	-webkit-box-shadow: inset 0px 0px 50px 15px  #ffffff;
+	box-shadow: inset 0px 0px 50px 15px  #ffffff;
+}
+.creative_form_1 .creativecontactform_wrapper_inner {
+	padding:  17px  17px 10px 17px;
+}
+
+.creative_form_1 .creativecontactform_title {
+	color: #3d2d3d;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	text-shadow: 2px 1px 2px #ffffff;
+}
+
+.creative_form_1 .creativecontactform_field_name {
+	color: #3d2d3d;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	text-shadow: 2px 1px 1px #ffffff;
+	margin:  0px  0px 1px 3px;
+}
+
+.creative_form_1 .answer_name label {
+	color: #3d2d3d;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-shadow: 2px 1px 1px #ffffff;
+}
+.creative_form_1 .answer_name label.without_parent_label {
+	font-size: 14px;
+}
+
+.creative_form_1 .creative_uploaded_file {
+	color: #3d2d3d;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-shadow: 2px 1px 1px #ffffff;
+}
+
+.creative_form_1 .creativecontactform_field_required {
+	color: #ff0000;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	text-shadow: 2px 1px 1px #ffffff;
+}
+
+.creative_form_1 .creativecontactform_send,.creative_form_1 .creativecontactform_send_new {
+	background-color: #000000;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000'); /* for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#000000), to(#000000));/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-linear-gradient(top, #000000, #000000); /* Safari 5.1, Chrome 10+ */
+	background: -moz-linear-gradient(top, #000000, #000000);/* Firefox 3.6+ */
+	background: -ms-linear-gradient(top, #000000, #000000);/* IE 10 */
+	background: -o-linear-gradient(top, #000000, #000000);/* Opera 11.10+ */
+	
+	padding: 6px 25px;
+	-moz-box-shadow:  0px 0px 16px 4px  #ffffff;	
+	-webkit-box-shadow:  0px 0px 16px 4px  #ffffff;	
+	box-shadow:  0px 0px 16px 4px  #ffffff;	
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ffffff;
+	
+	-webkit-border-top-left-radius: 7px;
+	-moz-border-radius-topleft: 7px;
+	border-top-left-radius: 7px;
+	
+	-webkit-border-top-right-radius: 7px;
+	-moz-border-radius-topright: 7px;
+	border-top-right-radius: 7px;
+	
+	-webkit-border-bottom-left-radius: 7px;
+	-moz-border-radius-bottomleft: 7px;
+	border-bottom-left-radius: 7px;
+	
+	-webkit-border-bottom-right-radius: 7px;
+	-moz-border-radius-bottomright: 7px;
+	border-bottom-right-radius: 7px;
+	float: right;
+
+	font-size: 14px;
+	color: #ffffff;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: inherit;
+	text-shadow: 1px -1px 1px #000000;
+}
+.creative_form_1 .creativecontactform_send:hover,.creative_form_1 .creativecontactform_send_new:hover, 
+.creative_form_1 .creativecontactform_send:active,.creative_form_1 .creativecontactform_send_new:active, 
+.creative_form_1 .creativecontactform_send:focus,.creative_form_1 .creativecontactform_send_new:focus
+{
+	padding: 6px 25px;
+	font-size: 14px;
+	background-color: #666464;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#666464', endColorstr='#666464'); /* for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#666464), to(#666464));/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-linear-gradient(top, #666464, #666464); /* Safari 5.1, Chrome 10+ */
+	background: -moz-linear-gradient(top, #666464, #666464);/* Firefox 3.6+ */
+	background: -ms-linear-gradient(top, #666464, #666464);/* IE 10 */
+	background: -o-linear-gradient(top, #666464, #666464);/* Opera 11.10+ */
+	
+	color: #fafafa;
+	text-shadow: 1px -1px 1px #000000;
+	-moz-box-shadow:  0px 0px 18px 7px  #ffffff;
+	-webkit-box-shadow:  0px 0px 18px 7px  #ffffff;
+	box-shadow:  0px 0px 18px 7px  #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ffffff;
+}
+		        	
+.creative_form_1 .creativecontactform_submit_wrapper {
+	width: 	93%;
+	margin: 3px 0px 3px 0px;
+}
+
+.creative_form_1 .creativecontactform_input_element input,.creative_form_1 .creativecontactform_input_element textarea,.creative_form_1 .creativecontactform_input_element{
+	font-size: 14px;
+	color: #000000;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: tahoma;
+	text-shadow: 0px 0px 0px #000000;
+}
+
+.creative_form_1 .creativecontactform_input_element:hover,.creative_form_1 .creativecontactform_input_element:focus,.creative_form_1 .creativecontactform_input_element.focused {
+	background-color: #ebebeb;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ebebeb', endColorstr='#ffffff'); /* for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ebebeb), to(#ffffff));/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-linear-gradient(top, #ebebeb, #ffffff); /* Safari 5.1, Chrome 10+ */
+	background: -moz-linear-gradient(top, #ebebeb, #ffffff);/* Firefox 3.6+ */
+	background: -ms-linear-gradient(top, #ebebeb, #ffffff);/* IE 10 */
+	background: -o-linear-gradient(top, #ebebeb, #ffffff);/* Opera 11.10+ */
+	
+	-moz-box-shadow: inset 0px 0px 10px 0px  #ffffff;
+	-webkit-box-shadow: inset 0px 0px 10px 0px  #ffffff;
+	box-shadow: inset 0px 0px 10px 0px  #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #424242;
+}
+.creative_form_1 .creativecontactform_input_element,.creative_form_1 .creativecontactform_input_element.closed:hover {
+	width:63%;
+	background-color: #ffffff;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff'); /* for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#ffffff));/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-linear-gradient(top, #ffffff, #ffffff); /* Safari 5.1, Chrome 10+ */
+	background: -moz-linear-gradient(top, #ffffff, #ffffff);/* Firefox 3.6+ */
+	background: -ms-linear-gradient(top, #ffffff, #ffffff);/* IE 10 */
+	background: -o-linear-gradient(top, #ffffff, #ffffff);/* Opera 11.10+ */
+	
+	-moz-box-shadow: inset 0px 0px 0px 0px  #89a100;	
+	-webkit-box-shadow: inset 0px 0px 0px 0px  #89a100;		
+	box-shadow: inset 0px 0px 0px 0px  #89a100;		
+	border-style: solid;
+	border-width: 1px;
+	border-color: #b6c9f5;
+	
+	-webkit-border-top-left-radius: 7px;
+	-moz-border-radius-topleft: 7px;
+	border-top-left-radius: 7px;
+	
+	-webkit-border-top-right-radius: 7px;
+	-moz-border-radius-topright: 7px;
+	border-top-right-radius: 7px;
+	
+	-webkit-border-bottom-left-radius: 7px;
+	-moz-border-radius-bottomleft: 7px;
+	border-bottom-left-radius: 7px;
+	
+	-webkit-border-bottom-right-radius: 7px;
+	-moz-border-radius-bottomright: 7px;
+	border-bottom-right-radius: 7px;
+
+}
+.creative_form_1 .creativecontactform_input_element input:hover,.creative_form_1 .creativecontactform_input_element input:focus,.creative_form_1 .creativecontactform_input_element textarea:hover,.creative_form_1 .creativecontactform_input_element textarea:focus,.creative_form_1 .creativecontactform_input_element.focused input,.creative_form_1 .creativecontactform_input_element.focused textarea {
+	color: #1c1c1c;
+	text-shadow: 0px 0px 0px #949494;
+}
+
+.creative_form_1 .creative_textarea_wrapper {
+	width:93%;
+	height:150px;
+}
+
+.creative_form_1 .creativecontactform_error .creativecontactform_field_name,.creative_form_1 .creativecontactform_error .creativecontactform_field_name:hover {
+	color: #f70021;
+	text-shadow: 2px 1px 1px #ffffff;
+}
+.creative_form_1 .creativecontactform_error .creativecontactform_input_element,.creative_form_1 .creativecontactform_error .creativecontactform_input_element:hover {
+	background-color: #ed8e9b;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed8e9b', endColorstr='#ed8e9b'); /* for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ed8e9b), to(#ed8e9b));/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-linear-gradient(top, #ed8e9b, #ed8e9b); /* Safari 5.1, Chrome 10+ */
+	background: -moz-linear-gradient(top, #ed8e9b, #ed8e9b);/* Firefox 3.6+ */
+	background: -ms-linear-gradient(top, #ed8e9b, #ed8e9b);/* IE 10 */
+	background: -o-linear-gradient(top, #ed8e9b, #ed8e9b);/* Opera 11.10+ */
+	
+	-moz-box-shadow: inset 1px 1px 10px 0px  #cc7ecc;	
+	-webkit-box-shadow: inset 1px 1px 10px 0px  #cc7ecc;		
+	box-shadow: inset 1px 1px 10px 0px  #cc7ecc;		
+	border-color: #52000b;
+	
+}
+.creative_form_1 .creativecontactform_error input,.creative_form_1 .creativecontactform_error .creative_input_dummy_wrapper,.creative_form_1 .creativecontactform_error input:hover,.creative_form_1 .creativecontactform_error .focused input:hover,.creative_form_1 .creativecontactform_error .focused input,.creative_form_1 .creativecontactform_error .focused textarea,.creative_form_1 .creativecontactform_error textarea,.creative_form_1 .creativecontactform_error textarea:hover {
+	
+	color: #ffffff;
+	text-shadow: 0px 0px 0px #ffffff;
+}
+
+.creative_form_1 .creativecontactform_pre_text {
+	margin: 5px 0 6px 0;
+	padding: 3px 0 0 0;
+	width: 90%;
+	
+	font-size: 12px;
+	color: #3d2d3d;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: inherit;
+	text-shadow: 0px 0px 0px #ffffff;
+	
+	border-top: 1px dashed #302930;
+}
